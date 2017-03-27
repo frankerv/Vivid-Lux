@@ -1,6 +1,6 @@
 ## About Us
 
-Vivid Lux is a Seattle-based technology company leveraging advanced AI and computer learning to innovate a new generation of smart business solutions.
+VividLux is a Seattle-based technology company leveraging advanced AI and computer learning to innovate a new generation of smart business solutions.
 
 ### Contact Us
 
